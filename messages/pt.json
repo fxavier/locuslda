@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Quem Somos",
+    "services": "Serviços",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "hero": {
+    "headline": "Consultoria Ambiental, Social e de Negócios",
+    "subtext": "Soluções sustentáveis para o seu sucesso"
+  },
+  "about": {
+    "title": "Quem Somos",
+    "text": "A LOCUS é uma empresa moçambicana especializada em Consultoria Ambiental e Social, Gestão de Negócios, Sistemas de Emergência e Manutenção de Extintores, Implementação de normas ISO, Engenharia Topográfica e SIG, Arquitetura e Ordenamento Territorial e Gestão de Stakeholders. Fundada oficialmente em 2024, atua com técnicos experientes desde 2001.",
+    "mission": "Fornecer soluções inovadoras e sustentáveis aos nossos clientes, por forma a minimizarem o impacto das suas actividades no ambiente.",
+    "vision": "Ser reconhecida como empresa de consultoria ambiental de referência em excelência e inovação.",
+    "missionTitle": "Missão",
+    "visionTitle": "Visão",
+    "valuesTitle": "Valores",
+    "whyUsTitle": "Razões para Trabalhar Connosco",
+    "values": [
+      "Sustentabilidade",
+      "Inovação",
+      "Ética",
+      "Colaboração",
+      "Excelência"
+    ],
+    "whyUs": [
+      "Conformidade com normas e legislações vigentes",
+      "Compromisso com a qualidade",
+      "Abordagem integrada e multidisciplinar",
+      "Presença nacional com conhecimento do contexto local"
+    ]
+  },
+  "services": {
+    "title": "Serviços",
+    "environment": {
+      "title": "Ambiente",
+      "items": [
+        "Estudos de Impacto Ambiental",
+        "Planos de Reassentamentos",
+        "Auditorias Ambientais",
+        "Desenvolvimento comunitário",
+        "Gestão ambiental, água, saneamento e biodiversidade"
+      ]
+    },
+    "emergency": {
+      "title": "Sistema de Emergência e Extintores",
+      "items": [
+        "Planos de emergência internos/externos",
+        "Simulacros",
+        "Manutenção e treino com extintores",
+        "Documentação e formação"
+      ]
+    },
+    "business": {
+      "title": "Gestão de Negócios",
+      "items": [
+        "Engenharia Topográfica e Mapeamentos",
+        "Arquitetura e Ordenamento Territorial",
+        "Estudos Geológicos",
+        "Gestão de Stakeholders",
+        "Due Diligence, Estudos de Base, Estratégias"
+      ]
+    },
+    "iso": {
+      "title": "Normas ISO",
+      "items": [
+        "ISO 9001 – Qualidade",
+        "ISO 14001 – Gestão Ambiental",
+        "ISO 45001 – Saúde e Segurança",
+        "Auditorias de conformidade e desempenho"
+      ]
+    },
+    "architecture": {
+      "title": "Arquitetura e Ordenamento",
+      "items": [
+        "Planos de desenvolvimento distrital/urbano",
+        "Urbanização e reordenamento",
+        "Cadastro urbano e assentamentos"
+      ]
+    },
+    "engineering": {
+      "title": "Engenharia Topográfica e SIG",
+      "items": [
+        "Levantamentos topográficos/arquitetónicos/batimétricos",
+        "Agrimensura, piquetagem e implantação",
+        "Bases de dados espaciais e cadastrais",
+        "Ortofotomapas e cartografia"
+      ]
+    },
+    "stakeholder": {
+      "title": "Gestão de Stakeholders",
+      "items": [
+        "Mapeamento e categorização",
+        "Engajamento e comunicação",
+        "Gestão de crises e percepções",
+        "Due Diligence e canais de diálogo"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "getInTouch": "Entre em Contacto",
+    "address": "Endereço",
+    "email": "Email",
+    "phone": "Telefone"
+  }
+}
